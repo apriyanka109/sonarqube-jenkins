@@ -121,6 +121,8 @@ ls
 
 ./startup.sh
 
+in new tab ip adress:8080/wedapp-0.1/
+
 -------------------
 
 node.js ----we will deploy in server
